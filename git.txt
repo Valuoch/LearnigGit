@@ -1,0 +1,7 @@
+GIT- Version control system. Stores files and history of those files.
+Other GIT vesions include; Subversion, Perforce
+Created by LINUS TORVALD(created Linux and GIT)
+Github- online source code hosting platform for codes. Merging happens on github
+Others like github include; Bitbucket, gitlab
+
+why GIT
