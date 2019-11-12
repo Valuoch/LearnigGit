@@ -5,3 +5,18 @@ Github- online source code hosting platform for codes. Merging happens on github
 Others like github include; Bitbucket, gitlab
 
 why GIT
+
+
+Commands
+git init- initialize git repository
+git add <file name>
+git status
+git commit- saves commits
+git commit -m"first commit"
+
+IMMPORT COMMANDS
+git add .
+git commit -m <second>
+git push
+
+Google
